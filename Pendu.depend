@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1619222784 source:c:\codeblock\mars\pendu\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<stdint.h>
+	"lecturecaractere.h"
+
+1619200913 c:\codeblock\mars\pendu\lecturecaractere.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
